@@ -14,6 +14,7 @@ int main() {
     for (int i = 0; i < n; i++) {
         printf("Entrez l'element %d : ", i + 1);
         scanf("%d", &tableau[i]);
+
     }
 
     // affichage des éléments
